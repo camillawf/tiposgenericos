@@ -1,0 +1,17 @@
+class Main {
+  public static void main(String[] args) {
+    public class Caixa<C>;
+    C obj;
+    public Caixa(C obj){
+      this.obj=obj;
+    }
+  public class Guardar(){
+  }
+  public class Retirar(){
+    
+  }
+  publi void printar(){
+    System.out.pritln(obj);
+  }
+  }
+}
